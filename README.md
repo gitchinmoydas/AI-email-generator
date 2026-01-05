@@ -46,4 +46,21 @@ This project demonstrates clean backend architecture, AI integration, and a mode
 ---
 
 ## 📁 Project Structure
-
+ai-email-template-generator/
+├── frontend/
+│ ├── src/
+│ ├── index.html
+│ ├── package.json
+│ └── vite.config.js
+│
+├── backend/
+│ ├── src/
+│ │ ├── controllers/
+│ │ ├── services/
+│ │ ├── routes/
+│ │ └── app.js
+│ ├── package.json
+│ └── .env (not committed)
+│
+├── .gitignore
+└── README.md
