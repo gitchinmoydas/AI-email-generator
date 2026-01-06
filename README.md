@@ -10,9 +10,6 @@ This project demonstrates clean backend architecture, AI integration, and a mode
 - **Frontend**:  https://ai-email-generator-beta.vercel.app/
 - **Backend API**: https://ai-email-generator-mhve.onrender.com
 
-*(Replace URLs with your actual deployed links)*
-
----
 
 ## 🚀 Features
 
